@@ -8,7 +8,7 @@ coming soon
 
 # Reference
 The citation detail of our method:
-'''
+'''bibtex
 @article{kou2024interactive,
   title={Interactive Cascaded Network for Prostate Cancer Segmentation from Multimodality MRI with Automated Quality Assessment},
   author={Kou, Weixuan and Rey, Cristian and Marshall, Harry and Chiu, Bernard},
