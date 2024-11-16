@@ -5,7 +5,7 @@ Here is the pytorch implementation of our iterative cascaded network for prostat
 
 
 # Train & Test
-The training and test of fine segmentation network can refer to https://github.com/bowang-lab/MedSAM/tree/main
+The training and test of fine segmentation network can refer to https://github.com/facebookresearch/segment-anything and https://github.com/bowang-lab/MedSAM/tree/main
 # Reference
 The citation detail of our method:
 ```bibtex
