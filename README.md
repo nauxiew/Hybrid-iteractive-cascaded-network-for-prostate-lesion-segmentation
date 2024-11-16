@@ -2,7 +2,7 @@
 Here is the pytorch implementation of our iterative cascaded network for prostate lesion segmentation with automated quality assessment (https://www.mdpi.com/2306-5354/11/8/796) 
 
 # Preparation
-
+The pre-trained model of the backbone used in this work can be downloaded from https://github.com/lukemelas/EfficientNet-PyTorch/releases/download/1.0/efficientnet-b5-b6417697.pth
 
 # Train & Test
 The training and test of fine segmentation network can refer to https://github.com/facebookresearch/segment-anything and https://github.com/bowang-lab/MedSAM/tree/main
