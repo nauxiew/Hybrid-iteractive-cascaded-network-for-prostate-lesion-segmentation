@@ -2,7 +2,7 @@
 Here is the pytorch implementation of our iterative cascaded network for prostate lesion segmentation with automated quality assessment (https://www.mdpi.com/2306-5354/11/8/796) 
 
 # Preparation
-coming soon
+
 
 # Train & Test
 
